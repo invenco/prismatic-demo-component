@@ -1,0 +1,39 @@
+# package directories
+node_modules
+jspm_packages
+
+
+# Build Directories
+dist
+
+# Serverless
+.serverless
+serverless.custom.yml
+
+# Webpack directories
+.webpack
+
+# Terraform files
+.terraform*
+*.tfstate
+*.tfstate.backup
+
+# IDEs
+.idea
+.vscode
+
+# npm
+package-lock.json
+
+# Everything else
+.eslintcache
+.env
+.aws
+coverage
+/lib
+/dist
+.DS_Store
+yarn-error.log
+.yarnrc
+.npmrc
+*.code-workspace

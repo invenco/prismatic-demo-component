@@ -1,0 +1,10 @@
+node_modules
+.serverless
+.vscode
+*.config.js
+.webpack
+**/*.js
+.idea
+lib
+__mocks__
+legacy-components/
